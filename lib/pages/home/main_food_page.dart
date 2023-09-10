@@ -7,7 +7,7 @@ import 'package:my_app/widgets/big_text.dart';
 import 'package:my_app/widgets/small_text.dart';
 
 class MainFoodPage extends StatefulWidget {
-  const MainFoodPage({super.key});
+  const MainFoodPage({Key? key}) : super(key:key);
 
   @override
   State<MainFoodPage> createState() => _MainFoodPageState();

@@ -1,4 +1,4 @@
-//Tutorial: 7:00:29
+//Tutorial: 7:14:25
 import 'package:flutter/material.dart';
 import 'package:my_app/controllers/popular_product_controller.dart';
 import 'package:my_app/pages/food/popular_food_detail.dart';

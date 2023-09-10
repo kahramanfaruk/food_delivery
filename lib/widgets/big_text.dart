@@ -4,7 +4,7 @@ import 'package:my_app/utils/dimensions.dart';
 
 
 class BigText extends StatelessWidget {
-  final Color? color; //THe question mark makes it optional
+  final Color? color; //The question mark makes it optional
   final String text;
   final double size;
   final TextOverflow overFlow;
@@ -13,7 +13,7 @@ class BigText extends StatelessWidget {
   //final TextOverflow overflow; // Corrected the typo in the property name
 
 
-  BigText({Key? key, this.color = const Color(0xFF332D2B), // Text Color this.color = const Color(0xFF332D2B)
+  BigText({Key? key, this.color = const Color(0xFF332D2B),
     required this.text,
     this.size=0,
     this.overFlow = TextOverflow.ellipsis

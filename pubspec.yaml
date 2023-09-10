@@ -32,6 +32,7 @@ dependencies:
     sdk: flutter
   get: ^4.1.4
   dots_indicator: ^2.0.0 # For the dots under the main widgets in the first page
+  http: ^0.13.3
 
 
   # The following adds the Cupertino Icons font to your application.
